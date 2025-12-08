@@ -300,5 +300,5 @@ header {
 .carousel-inner{
     object-fit: cover;
 width: 100%;
-    aspect-ratio: 16/5;
+    aspect-ratio:16/5;
 }

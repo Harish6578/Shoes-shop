@@ -23,7 +23,7 @@ header {
     left: 0;
     width: 100%;
     padding: 22px 8%;
-    background: rgba(255, 255, 255, 0.85);
+    background: rgba(255, 218, 218, 0.85);
     backdrop-filter: blur(15px);
     box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
     display: flex;
